@@ -2,3 +2,7 @@
 .vscode
 bin
 lib
+
+# DS Store
+*/.DS_Store
+.DS_Store
