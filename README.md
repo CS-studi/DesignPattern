@@ -4,6 +4,10 @@
 
 <img src="https://user-images.githubusercontent.com/44316546/197382582-dbcd4fa4-1133-419d-813d-75d0135373a6.jpg" height="400" width="300" align-item="center">
 
+## repo
+
+[하현준](https://github.com/StudyForBetterLife/DesignPattern), [이현동](https://github.com/LEEHYUNDONG/DesignPattern), [김민성](), [김지원]()
+
 ## 스케쥴
 
 | 체크  | 주차  | 챕터    | 주제                          |
